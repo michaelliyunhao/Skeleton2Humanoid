@@ -47,4 +47,3 @@ If you find our work useful in your research, please cite our paper [skeleton2hu
 
 ## license
 To be updated
-```
