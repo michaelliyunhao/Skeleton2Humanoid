@@ -1,6 +1,7 @@
 # Skeleton2Humanoid
 
-> Official implementation for "Skeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening"
+> Official implementation for 
+**Skeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening**
 > 
 > Yunhao Li, Zhenbo Yu, Yucheng Zhu, Bingbing Ni, Guangtao Zhai, Wei Shen
 > 
