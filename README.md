@@ -24,7 +24,12 @@ This repo is still under construction:
 ## Introduction
 We propose a system “Skeleton2Humanoid” which performs physics-oriented motion correction at test time by regularizing synthesized skeleton motions in a physics simulator ([Mujoco](http://www.mujoco.org/)). Concretely, our system consists of three sequential stages: (I) test time motion synthesis network adaptation, (II) skeleton to humanoid matching and (III) motion imitation based on reinforcement learning (RL).
 
+## Training
+
+## Testing
+
 ## Results
+![Skeleton2Humanoid](images/results.png)
 
 
 
