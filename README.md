@@ -4,4 +4,4 @@ Official implementation for ACMMM2022 paper "Skeleton2Humanoid: Animating Simula
 Physically-plausible Motion In-betweening"
 
 
-![Image text](https://github.com/michaelliyunhao/Skeleton2Humanoid/tree/main/images/inbetween_sample.png)
+![Skeleton2Humanoid](images/inbetween_sample.png)
