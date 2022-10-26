@@ -1,6 +1,7 @@
 # Skeleton2Humanoid
 
 > Official implementation for 
+> 
 **Skeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening**
 > 
 > Yunhao Li, Zhenbo Yu, Yucheng Zhu, Bingbing Ni, Guangtao Zhai, Wei Shen
@@ -14,13 +15,14 @@
 
 ![Skeleton2Humanoid](images/inbetween_sample.png)
 
-# To do
+## To do
 This repo is still under construction: 
 - [x] add baseline motion inbetweening code
 - [x] adding test time adaptation stage code
 - [x] adding inverse kinematics code
 - [x] adding RL training code
 
+## Installation instructions
 
 ## Introduction
 We propose a system “Skeleton2Humanoid” which performs physics-oriented motion correction at test time by regularizing synthesized skeleton motions in a physics simulator ([Mujoco](http://www.mujoco.org/)). Concretely, our system consists of three sequential stages: (I) test time motion synthesis network adaptation, (II) skeleton to humanoid matching and (III) motion imitation based on reinforcement learning (RL).
@@ -31,6 +33,8 @@ We propose a system “Skeleton2Humanoid” which performs physics-oriented moti
 
 ## Results
 ![Skeleton2Humanoid](images/results.png)
+
+![Skeleton2Humanoid](images/skeleton2humanoid.png)
 
 
 
