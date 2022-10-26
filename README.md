@@ -41,6 +41,10 @@ We propose a system “Skeleton2Humanoid” which performs physics-oriented moti
     <img src="images/aiming motion.gif", width="800" alt><br>
 </div>
 
+<div align="center">
+    <img src="images/walking.gif", width="800" alt><br>
+</div>
+
 
 
 <!-- <!<div align="center">
