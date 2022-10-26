@@ -29,7 +29,7 @@ We propose a system “Skeleton2Humanoid” which performs physics-oriented moti
 
 
 
-## Citation
+<!-- ## Citation
 If you find our work useful in your research, please cite our paper [skeleton2humanoid](https://arxiv.org/pdf/2210.04294.pdf):
 ```
 @inproceedings{li2022skeleton2humanoid,
@@ -38,5 +38,8 @@ If you find our work useful in your research, please cite our paper [skeleton2hu
   booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
   pages={1493--1502},
   year={2022}
-}
+} -->
+
+## license
+To be updated
 ```
