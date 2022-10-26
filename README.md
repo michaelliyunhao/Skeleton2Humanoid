@@ -15,6 +15,9 @@
 
 ![Skeleton2Humanoid](images/inbetween_sample.png)
 
+
+![Skeleton2Humanoid](images/skeleton2humanoid.png)
+
 ## To do
 This repo is still under construction: 
 - [x] add baseline motion inbetweening code
@@ -34,7 +37,6 @@ We propose a system “Skeleton2Humanoid” which performs physics-oriented moti
 ## Results
 ![Skeleton2Humanoid](images/results.png)
 
-![Skeleton2Humanoid](images/skeleton2humanoid.png)
 
 
 
