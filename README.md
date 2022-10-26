@@ -38,14 +38,14 @@ We propose a system “Skeleton2Humanoid” which performs physics-oriented moti
 ![Skeleton2Humanoid](images/results.png)
 
 <div align="center">
-    <img src="images/aiming motion.gif" alt><br>
+    <img src="images/aiming motion.gif", width="600" alt><br>
 </div>
 
 
 
-<!<div align="center">
+<!-- <!<div align="center">
     <img src="images/aiming motion.gif", width="600" alt><br>
-</div>-->
+</div> --> -->
 
 
 
