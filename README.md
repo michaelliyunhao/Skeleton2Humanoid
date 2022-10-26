@@ -3,6 +3,7 @@
 > Official implementation for "Skeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening"
 > 
 > Yunhao Li, Zhenbo Yu, Yucheng Zhu, Bingbing Ni, Guangtao Zhai, Wei Shen
+> 
 > ACMMM2022 
 
 [[`ACM Paper`](https://dl.acm.org/doi/abs/10.1145/3503161.3548093)]
