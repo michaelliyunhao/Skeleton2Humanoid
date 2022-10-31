@@ -55,7 +55,7 @@ We propose a system “Skeleton2Humanoid” which performs physics-oriented moti
 ## Acknowledgments
 Thanks for the following excellcent works:
 
-[RFC](https://github.com/Khrylx/RFC), [kin-poly](https://github.com/KlabCMU/kin-poly).
+[RFC](https://github.com/Khrylx/RFC).
 
 
 
