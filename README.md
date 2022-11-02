@@ -18,6 +18,8 @@
 
 ![Skeleton2Humanoid](images/skeleton2humanoid.png)
 
+## Video introduction
+https://www.youtube.com/watch?v=TxBQw3V-ZZs
 
 
 ## To do
