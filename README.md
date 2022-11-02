@@ -20,7 +20,7 @@
 
 ## Video introduction
 
-[![video]()](https://www.youtube.com/watch?v=TxBQw3V-ZZs "video")
+[![video](images/video_cut.png)](https://www.youtube.com/watch?v=TxBQw3V-ZZs "video")
 
 
 
