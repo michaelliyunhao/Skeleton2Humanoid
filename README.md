@@ -18,8 +18,7 @@
 
 ![Skeleton2Humanoid](images/skeleton2humanoid.png)
 
-## Video Introduction
-https://user-images.githubusercontent.com/46719682/199383595-dad49969-6865-4a19-af08-dc186d3460d8.mp4
+
 
 ## To do
 This repo is still under construction: 
